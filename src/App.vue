@@ -28,7 +28,6 @@ export default {
     font-family: sans-serif;
     box-sizing: border-box;
     color: inherit;
-    transition: all 300ms;
   }
 </style>
 
